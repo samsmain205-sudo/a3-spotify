@@ -29,4 +29,4 @@ https://github.com/travislindenreid/INF33-Demos/blob/main/W6_L1_AngularServices/
 
 
 6. Is there anything special we need to know in order to run your code?
-  I did change the CSS for the Artists profile image to 100% instead of 400% for better visuals when testing!
+  I did change the CSS for the Artists profile image to 100% instead of 400% for better visuals when testing! Also since I didn't clear table per time someone changes from album to track it can make the table wonky but since it wasn't required to clear it everytime I just assumed to leave it as is. Only when a user, for example, searches Drake (album), then drops to tracks, and only when the click search will it display it correctly. 
