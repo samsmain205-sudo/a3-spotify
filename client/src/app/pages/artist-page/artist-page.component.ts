@@ -33,7 +33,6 @@ export class ArtistPageComponent implements OnInit {
       {
         this.topTracks = data});
     
-    //TODO: Inject the spotifyService and use it to get the artist data, top tracks for the artist, and the artist's albums
   }
 
 }
